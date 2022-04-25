@@ -1,0 +1,10 @@
+name: specifier
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - spacy
+  - Flask
+  - flask-cors
+  - python=3.10
+prefix: C:\Users\micro\miniconda3\envs\wordle-ai
